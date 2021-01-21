@@ -48,7 +48,7 @@
 		<noscript>
 			<img src="index.hyperesources/poster.jpg" width="100%" height="100%">
 		</noscript>
-		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?89692"></script>
+		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?35630"></script>
 	</div>
 
 	<!-- end copy -->
@@ -66,7 +66,7 @@
 		<div>DE OTTO</div>
 		<div>andrezzinho & andrea sazu
 </div>
-		<div>Esa tarde sofocante, como todas en la ciudad de Honda, le entregué a don Otto una carta que había recibido en la oficina de correos proveniente del Brasil. Al menos por lo que pude entrever en su estampilla finamente pegada en la esquina derecha: una playa con mar y unas montañas extrañas dibujadas al lado de las palabras Brasil Correio.
+		<div>Esa tarde sofocante, como todas en la ciudad de Honda, Josefa le entregó a don Otto una carta que había recibido en la oficina de correos proveniente del Brasil. Al menos por lo que pude entrever en su estampilla finamente pegada en la esquina derecha: una playa con mar y unas montañas extrañas dibujadas al lado de las palabras Brasil Correio.
 </div>
 		<div>Capítulo 1</div>
 		<div>Honda_compressed</div>
@@ -96,11 +96,7 @@ Antonio y yo.
 </div>
 		<div>Josefa, tenemos que salir mañana mismo para Ambalema, y luego tomar el vapor Junín. Prepara el equipaje para un mes de viaje y llama a Antonio.
 </div>
-		<div>Esos quince días de travesía hasta el mar, atravesando el Río Magdalena significaban los más indecibles padecimientos provocados por la navegación y la salvaje naturaleza, especialmente para un extranjero como el joven Otto con esa piel tan blanca y proclive a los mosquitos. Sin embargo yo estaría más que feliz de ir y compartir con él ese infierno que le esperaba.
-
-</div>
 		<div>LA DORADA</div>
-		<div>CRÉDITOS</div>
 		<div>PUERTO NARE</div>
 		<div>EPÍLOGO</div>
 		<div>INICIO</div>
@@ -108,18 +104,27 @@ Antonio y yo.
 		<div>HONDA</div>
 		<div>BARRANQUILLA</div>
 		<div>AMBALEMA</div>
+		<div>Además en Ambalema
+tengo una prima cercana</div>
+		<div> ¡Yo podría enseñarle a hablar mejor el español!</div>
 		<div>¿Qué le dijo Don Otto?
 ¿Por qué no me lleva?
 </div>
-		<div>Yo le cambiaría mi lugar de buena gana. El joven Otto es tan callado y aburrido, y este viaje será tan largo que no me emociona nada nada.</div>
+		<div>No me dijo nada, no sé el contenido de la carta. Lo que sí me pidió fue recoger el cofre del señor Arnold, el que tenemos en las bodegas de Ambalema.</div>
+		<div>Yo le cambiaría mi lugar de buena gana. El joven Otto es callado, aburrido y este viaje será tan largo que no me emociona nada nada.</div>
+		<div>¡Ay Josefa!
+usted si es bien inocente...</div>
 		<div>No entiendo por qué no puedo ir.
 Yo podría estar pendiente de la ropa y de la comida del Joven Otto.</div>
-		<div>Además en Ambalema
-tengo una prima cercana</div>
-		<div>No me dijo nada, no sé el contenido de la carta. Lo que sí me pidió fue recoger el cofre del señor Arnold, el que tenemos en las bodegas de Ambalema.</div>
+		<div>Es callado porque no habla bien español y viene de unas tierras muy diferentes.</div>
+		<div>Esos quince días de travesía hasta el mar, atravesando el Río Magdalena, significaban los más indecibles padecimientos provocados por la navegación y la salvaje naturaleza, especialmente para un extranjero como el joven Otto con esa piel tan blanca y proclive a los mosquitos. A pesar de eso, Josefa estaría más que feliz de ir y compartir con él ese infierno que nos esperaba.
+
+</div>
 		<div>Este libro fue posible gracias a:</div>
 		<div>El viaje de Otto es una historia creada por Andrea Sazu y Andrezzinho.
 Música original de Carlos Dudley Sandoval.</div>
+		<div>El joven Otto nunca se podría enamorar de usted, empezando porque usted, como yo, es pobre y mulata.</div>
+		<div>¡Quién quita! Soñar no cuesta nada... </div>
 
 	</div>
 
