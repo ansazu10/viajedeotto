@@ -48,7 +48,7 @@
 		<noscript>
 			<img src="index.hyperesources/poster.jpg" width="100%" height="100%">
 		</noscript>
-		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?45868"></script>
+		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?23089"></script>
 	</div>
 
 	<!-- end copy -->
@@ -61,6 +61,7 @@
 
 		<div>Créditos</div>
 		<div></div>
+		<div>avanceMÚsIca</div>
 		<div>ElVIAJE</div>
 		<div>Leer</div>
 		<div>DE OTTO</div>
