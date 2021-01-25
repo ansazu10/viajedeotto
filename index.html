@@ -48,7 +48,7 @@
 		<noscript>
 			<img src="index.hyperesources/poster.jpg" width="100%" height="100%">
 		</noscript>
-		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?35630"></script>
+		<script type="text/javascript" charset="utf-8" src="index.hyperesources/index_hype_generated_script.js?45868"></script>
 	</div>
 
 	<!-- end copy -->
@@ -125,6 +125,30 @@ Yo podría estar pendiente de la ropa y de la comida del Joven Otto.</div>
 Música original de Carlos Dudley Sandoval.</div>
 		<div>El joven Otto nunca se podría enamorar de usted, empezando porque usted, como yo, es pobre y mulata.</div>
 		<div>¡Quién quita! Soñar no cuesta nada... </div>
+		<div>¡Acuérdese de la historia de Tomasa!
+</div>
+		<div>Esa historia no se va a repetir nunca,
+¿acaso usted no supo cómo terminó?
+
+</div>
+		<div>El joven
+Otto nunca le haría nada
+malo a nadie.
+</div>
+		<div>No…
+</div>
+		<div>Y no quiere saberlo. Mejor ocúpese de otra cosa Josefa. 
+</div>
+		<div>Espéreme aquí mientras compro los tiquetes.
+</div>
+		<div>y oigame: una mujer bonita como usted no tiene que sufrir por ese hombre, consigase uno de acá que la quiera y la haga feliz, créame, el Joven Otto no es para usted.
+</div>
+		<div>Josefa se quedó en Honda cuidando de la casa. Soñaba despierta con encuentros inverosímiles en los que Otto la besaba y le confesaba su amor. Mientras tanto, el tren atravesaba lentamente el puente sobre el río y nos llevaba a iniciar el viaje en Ambalema, para tomar del baúl secreto del señor Arnold.
+
+Observé a mi lado derecho al señor Otto, quien garabateaba extensos párrafos en su cuaderno con su pluma negra.
+
+</div>
+		<div>VOLVER AL INICIO</div>
 
 	</div>
 
